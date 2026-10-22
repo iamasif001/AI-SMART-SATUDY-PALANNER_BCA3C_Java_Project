@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+bin/
+target/
+build/
+out/
+test-package/
+fatjar/
+nativelib/
+oracle/
+*.class
+
+*.jar
+*.jar
+extracted.txt
+.vscode/
